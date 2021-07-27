@@ -4,7 +4,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 import sklearn
-!pip install scikit-learn
+pip install scikit-learn
 conda install scikit-learn
 import sklearn
 
