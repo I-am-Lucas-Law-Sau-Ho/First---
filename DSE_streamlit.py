@@ -86,5 +86,3 @@ user_df[f"Predictions for {option}"] = prediction
 user_df
 
 
-
-
